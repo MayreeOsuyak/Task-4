@@ -1,0 +1,89 @@
+.dar{
+    margin:0 !important;
+    padding:0 !important;
+    height: 60rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .bot{
+     font-size: 2.8rem;
+     text-align: center;
+ }
+ .bots{
+     font-size: 1.5rem;
+     margin-bottom: 3rem;
+ }
+ .sphere{
+    height:75px;
+    width:150px;
+    margin:auto;
+    border-top-right-radius: 85px;
+    border-top-left-radius: 85px;
+    position:absolute;
+    
+ }
+ 
+ .lin1{
+     width:10%;
+     border-bottom:5rem;
+     background-color:rgb(141, 15, 141);
+ }
+ .line{
+     border-bottom: 0.3rem solid #38175e;
+     width:12%;
+     margin:auto;
+     margin-top: 1rem;
+ }
+ .form{
+     margin:3rem;
+ }
+  .text{
+      background-color: inherit;
+      border:0;
+      border-bottom: 0.2px solid rgb(156, 160, 161);
+      width:280px;
+      height:36px;
+      font-size:10px;
+  }
+ .buttons{
+     background-color: gray;
+     width:70%;
+     height: 4rem;
+     border-radius: 2rem;
+     margin: auto;
+     text-align: center;
+    
+ }
+ /* .button{
+     /* background-color: rgb(93, 12, 131); */
+     /* width:40%; */
+     /* height:3rem; */
+     /* border-radius: 2rem; */
+     /* margin: auto; */
+     /* text-decoration: none; */
+ 
+ 
+
+
+form .form-control{
+    background: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-radius: 0 !important;
+    margin-top: 2rem;
+}
+.btn-group button{
+    border-radius: 30px;
+}
+
+.btn-group-div{
+    width: fit-content;
+    margin: auto;
+}
+.submit{
+    position:absolute;
+    bottom:0;
+    left:0;
+    border-radius: 0;
+    width:100%;
+}
