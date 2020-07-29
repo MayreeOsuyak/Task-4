@@ -12,13 +12,15 @@
      font-size: 1.5rem;
      margin-bottom: 3rem;
  }
- .sphere{
+ .sphere button{
     height:75px;
     width:150px;
     margin:auto;
     border-top-right-radius: 85px;
     border-top-left-radius: 85px;
-    position:absolute;
+    position: relative;
+    border: 0;
+    top:20px;
     
  }
  
